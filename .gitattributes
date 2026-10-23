@@ -1,0 +1,4 @@
+# Keep LF endings: CRLF breaks the shell script and the embedded nvram checksum.
+* text=auto eol=lf
+*.sh text eol=lf
+firmware/*.txt text eol=lf
