@@ -57,7 +57,7 @@ The *Terminal & SSH* app runs in a container and **will not work**. Use one of t
 The board needs a network connection for this, so plug in Ethernet. First, set the URL and check which download tool your HAOS build has:
 
 ```sh
-U=https://raw.githubusercontent.com/YOUR_USER/haos-rockpi4-wifi-fix/main/install.sh
+U=https://raw.githubusercontent.com/in-sympathy/haos-rockpi4bplus-wifi-fix/main/install.sh
 command -v curl wget
 ```
 
